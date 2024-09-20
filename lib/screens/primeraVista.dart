@@ -13,6 +13,7 @@ class _primeraVistaState extends State<primeraVista> {
   var _monedasSelectedItem = "Dolar";
   var mostrarResultado = "";
   var num;
+  var lit;
 
   TextEditingController montoController = TextEditingController();
   TextEditingController tasaController = TextEditingController();
